@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsLab</string>
+
+    <string name="red_fragment_button">Red</string>
+    <string name="green_fragment_button">Green</string>
+    <string name="blue_fragment_button">Blue</string>
+</resources>
